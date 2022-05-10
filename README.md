@@ -1,5 +1,5 @@
 # README
-This is the reproducibility archive for the paper "Multimodality and Skewness in Emotion Time Series" (preprint: XXX). It allows one to reproduce all analyses and results in the paper.
+This is the reproducibility archive for the paper "Multimodality and Skewness in Emotion Time Series" (preprint: [https://psyarxiv.com/qudr6](https://psyarxiv.com/qudr6)). It allows one to reproduce all analyses and results in the paper.
 
 ### Folders
 - `/Data` contains the preprocessed data of the seven studies we re-analyzed in our paper. The scripts used to preprocess the data based on the data files provided by the authors can be found at [http://github.com/jmbh/EmotionTimeSeries](http://github.com/jmbh/EmotionTimeSeries).
